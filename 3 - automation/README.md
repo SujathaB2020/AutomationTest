@@ -8,7 +8,7 @@ This Automation Test is created using Java + Selenium Web Driver, Which can be u
 
 # Prerequisites:
 
-- Java jdk-1.8 or higher
+- Java jdk-12.0.1
 - ChromeDriver drivers
 - Selenium WebDriver jars
 
