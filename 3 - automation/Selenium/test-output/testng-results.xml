@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="7" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-29T00:11:39 NZDT" name="Default suite" finished-at="2022-01-29T00:12:00 NZDT" duration-ms="21249">
+    <groups>
+    </groups>
+    <test started-at="2022-01-29T00:11:39 NZDT" name="Default test" finished-at="2022-01-29T00:12:00 NZDT" duration-ms="21249">
+      <class name="com.ecoportal.InvalidEmail">
+        <test-method is-config="true" signature="launchWebsite()[pri:0, instance:com.ecoportal.InvalidEmail@5119fb47]" started-at="2022-01-29T00:11:39 NZDT" name="launchWebsite" finished-at="2022-01-29T00:11:54 NZDT" duration-ms="15840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchWebsite -->
+        <test-method signature="Reg()[pri:0, instance:com.ecoportal.InvalidEmail@5119fb47]" started-at="2022-01-29T00:11:54 NZDT" name="Reg" finished-at="2022-01-29T00:11:56 NZDT" duration-ms="1042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reg -->
+        <test-method signature="signIn()[pri:0, instance:com.ecoportal.InvalidEmail@5119fb47]" started-at="2022-01-29T00:11:56 NZDT" name="signIn" finished-at="2022-01-29T00:11:59 NZDT" duration-ms="3382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method signature="submit()[pri:0, instance:com.ecoportal.InvalidEmail@5119fb47]" started-at="2022-01-29T00:11:59 NZDT" name="submit" finished-at="2022-01-29T00:12:00 NZDT" duration-ms="918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submit -->
+      </class> <!-- com.ecoportal.InvalidEmail -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
