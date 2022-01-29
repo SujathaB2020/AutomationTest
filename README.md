@@ -2,9 +2,9 @@
 This Automation Test is created using Java + Selenium Web Driver, Which can be used across different web based applications.
 
 # Project:
-project : Selenium
-package : Seleniumbasics
-The main file is TestClass.java.
+- project : Selenium
+- package : Seleniumbasics
+- The main file is TestClass.java.
 
 # Prerequisites:
 
